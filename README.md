@@ -1,3 +1,0 @@
-# pruebaVideo
-[![Alt text](https://img.youtube/vi/4nOlBWCN63U/0.jpg)](https://youtube/watch?v=4nOlBWCN63U)
-hola correr correr correr correr
